@@ -4,13 +4,13 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
         
-        <title>Baldur's Gate Character Generator</title>
+        <title>Infinity Engine Character Generator</title>
     </head>
 
     <body>
         <header class="container">
             <div class="page-header">
-                <h1>Baldur's Gate Character Generator</h1>
+                <h1>Infinity Engine Character Generator</h1>
             </div>
         </header>
 
@@ -23,7 +23,12 @@
                             
                         <!-- Name -->
                         <div class="form-group">
-                            <label for="name" class="col-sm-3 control-label">Name</label>
+                            <label for="name" class="col-sm-3 control-label">
+                                Name
+                                <a href="#" data-toggle="tooltip" data-placement="top" title="Name of the caracter">
+                                    <span class="glyphicon glyphicon-info-sign"></span>
+                                </a>
+                            </label>
                             <div class="col-sm-9">
                                 <input type="text" name="name" id="name" class="form-control" placeholder="Name" required="required" />
                             </div>
@@ -448,35 +453,35 @@
                         <div class="form-group">
                             <label for="st-death" class="col-sm-3 control-label">Death</label>
                             <div class="col-sm-9">
-                                <input type="number" min="-10" max="10" name="st-death" value="0" id="st-death" class="form-control" placeholder="0" required="required" />
+                                <input type="number" min="0" max="20" name="st-death" value="0" id="st-death" class="form-control" placeholder="0" required="required" />
                             </div>
                         </div>
                         
                         <div class="form-group">
                             <label for="st-wand" class="col-sm-3 control-label">Wand</label>
                             <div class="col-sm-9">
-                                <input type="number" min="-10" max="10" name="st-wand" value="0" id="st-wand" class="form-control" placeholder="0" required="required" />
+                                <input type="number" min="0" max="20" name="st-wand" value="0" id="st-wand" class="form-control" placeholder="0" required="required" />
                             </div>
                         </div>
                         
                         <div class="form-group">
                             <label for="st-polymorph" class="col-sm-3 control-label">Polymorph</label>
                             <div class="col-sm-9">
-                                <input type="number" min="-10" max="10" name="st-polymorph" value="0" id="st-polymorph" class="form-control" placeholder="0" required="required" />
+                                <input type="number" min="0" max="20" name="st-polymorph" value="0" id="st-polymorph" class="form-control" placeholder="0" required="required" />
                             </div>
                         </div>
                         
                         <div class="form-group">
                             <label for="st-breath" class="col-sm-3 control-label">Breath</label>
                             <div class="col-sm-9">
-                                <input type="number" min="-10" max="10" name="st-breath" value="0" id="st-breath" class="form-control" placeholder="0" required="required" />
+                                <input type="number" min="0" max="20" name="st-breath" value="0" id="st-breath" class="form-control" placeholder="0" required="required" />
                             </div>
                         </div>
                         
                         <div class="form-group">
                             <label for="st-spell" class="col-sm-3 control-label">Spell</label>
                             <div class="col-sm-9">
-                                <input type="number" min="-10" max="10" name="st-spell" value="0" id="st-spell" class="form-control" placeholder="0" required="required" />
+                                <input type="number" min="0" max="20" name="st-spell" value="0" id="st-spell" class="form-control" placeholder="0" required="required" />
                             </div>
                         </div>
                     </fieldset>
@@ -813,6 +818,8 @@
                 change_body_model();
                 change_portrait_large();
                 change_portrait_small();
+
+                $('[data-toggle="tooltip"]').tooltip();
             });
         </script>
     </body>
