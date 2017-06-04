@@ -1,0 +1,482 @@
+[
+  {
+    "id": "0",
+    "name": "Red Tinted Black"
+  },
+  {
+    "id": "1",
+    "name": "Dark Bronze"
+  },
+  {
+    "id": "2",
+    "name": "Dark Gold"
+  },
+  {
+    "id": "3",
+    "name": "Light Gold"
+  },
+  {
+    "id": "4",
+    "name": "Auburn"
+  },
+  {
+    "id": "5",
+    "name": "Light Silver"
+  },
+  {
+    "id": "6",
+    "name": "Dark Silver"
+  },
+  {
+    "id": "7",
+    "name": "Light Metallic Green"
+  },
+  {
+    "id": "8",
+    "name": "Dark Muddish Brown"
+  },
+  {
+    "id": "9",
+    "name": "Light Muddish Brown"
+  },
+  {
+    "id": "10",
+    "name": "Light Pure Gold"
+  },
+  {
+    "id": "11",
+    "name": "Light Rose Red"
+  },
+  {
+    "id": "12",
+    "name": "Light Carnation Pink"
+  },
+  {
+    "id": "13",
+    "name": "Light Pure Silver"
+  },
+  {
+    "id": "14",
+    "name": "Dark Pure Silver"
+  },
+  {
+    "id": "15",
+    "name": "Easter Green"
+  },
+  {
+    "id": "16",
+    "name": "Silver Gold"
+  },
+  {
+    "id": "17",
+    "name": "Light Blue"
+  },
+  {
+    "id": "18",
+    "name": "Dark Blue"
+  },
+  {
+    "id": "19",
+    "name": "Dark Rose Red"
+  },
+  {
+    "id": "20",
+    "name": "Dark Moldy Green"
+  },
+  {
+    "id": "21",
+    "name": "Dark Iron Grey"
+  },
+  {
+    "id": "22",
+    "name": "Dark Brown"
+  },
+  {
+    "id": "23",
+    "name": "Light Copper"
+  },
+  {
+    "id": "24",
+    "name": "Dark Gold"
+  },
+  {
+    "id": "25",
+    "name": "Dark Pure Gold"
+  },
+  {
+    "id": "26",
+    "name": "Wood"
+  },
+  {
+    "id": "27",
+    "name": "Silver"
+  },
+  {
+    "id": "28",
+    "name": "Ghostly Greyish Silver"
+  },
+  {
+    "id": "29",
+    "name": "Red Tinted Black"
+  },
+  {
+    "id": "30",
+    "name": "Light Iron Grey"
+  },
+  {
+    "id": "31",
+    "name": "Light Sea Blue"
+  },
+  {
+    "id": "32",
+    "name": "Dark Sea Green"
+  },
+  {
+    "id": "33",
+    "name": "Dark Metallic Purple"
+  },
+  {
+    "id": "34",
+    "name": "Ghostly Green"
+  },
+  {
+    "id": "35",
+    "name": "Dark Ghostly Pink"
+  },
+  {
+    "id": "36",
+    "name": "Light Dirty Yellow"
+  },
+  {
+    "id": "37",
+    "name": "Dark Dirty Yellow"
+  },
+  {
+    "id": "38",
+    "name": "Light Dirtish Brown"
+  },
+  {
+    "id": "39",
+    "name": "Dark Dirtish Brown"
+  },
+  {
+    "id": "40",
+    "name": "Dark Dirty Copper"
+  },
+  {
+    "id": "41",
+    "name": "Dark Brown"
+  },
+  {
+    "id": "42",
+    "name": "Light Blurry Grey"
+  },
+  {
+    "id": "43",
+    "name": "Dark Dirtish Brown"
+  },
+  {
+    "id": "44",
+    "name": "Light Purple"
+  },
+  {
+    "id": "45",
+    "name": "Dark Purple"
+  },
+  {
+    "id": "46",
+    "name": "Light Red"
+  },
+  {
+    "id": "47",
+    "name": "Dark Red"
+  },
+  {
+    "id": "48",
+    "name": "Light Bronze"
+  },
+  {
+    "id": "49",
+    "name": "Dark Bronze"
+  },
+  {
+    "id": "50",
+    "name": "Dark Yellow"
+  },
+  {
+    "id": "51",
+    "name": "Dark Olive Green"
+  },
+  {
+    "id": "52",
+    "name": "Light Green"
+  },
+  {
+    "id": "53",
+    "name": "Green"
+  },
+  {
+    "id": "54",
+    "name": "Dark Green"
+  },
+  {
+    "id": "55",
+    "name": "Light Sea Blue"
+  },
+  {
+    "id": "56",
+    "name": "Dark Sea Blue"
+  },
+  {
+    "id": "57",
+    "name": "Light Blue"
+  },
+  {
+    "id": "58",
+    "name": "Dark Blue"
+  },
+  {
+    "id": "59",
+    "name": "Light Purple"
+  },
+  {
+    "id": "60",
+    "name": "Dark Purple"
+  },
+  {
+    "id": "61",
+    "name": "Lavender"
+  },
+  {
+    "id": "62",
+    "name": "Dark Lavender"
+  },
+  {
+    "id": "63",
+    "name": "Light Grey"
+  },
+  {
+    "id": "64",
+    "name": "Dark Grey"
+  },
+  {
+    "id": "65",
+    "name": "Really Dark Grey"
+  },
+  {
+    "id": "66",
+    "name": "Faded Black"
+  },
+  {
+    "id": "67",
+    "name": "Shiny Gold"
+  },
+  {
+    "id": "68",
+    "name": "Shiny Blue"
+  },
+  {
+    "id": "69",
+    "name": "Shiny Green"
+  },
+  {
+    "id": "70",
+    "name": "Light Metallic Red"
+  },
+  {
+    "id": "71",
+    "name": "Frost Blue"
+  },
+  {
+    "id": "72",
+    "name": "Steel Grey"
+  },
+  {
+    "id": "73",
+    "name": "Christmas Green"
+  },
+  {
+    "id": "74",
+    "name": "Pure White"
+  },
+  {
+    "id": "75",
+    "name": "Pure Black"
+  },
+  {
+    "id": "76",
+    "name": "Pure Red"
+  },
+  {
+    "id": "77",
+    "name": "Pure Green (invisible in icons)"
+  },
+  {
+    "id": "78",
+    "name": "Pure Blue"
+  },
+  {
+    "id": "79",
+    "name": "Light Silver"
+  },
+  {
+    "id": "80",
+    "name": "Dark Bronze"
+  },
+  {
+    "id": "81",
+    "name": "Faded Gold"
+  },
+  {
+    "id": "82",
+    "name": "Dark Metallic Blue"
+  },
+  {
+    "id": "83",
+    "name": "Dark Adamantite Grey"
+  },
+  {
+    "id": "84",
+    "name": "Peachy"
+  },
+  {
+    "id": "85",
+    "name": "21 Caret Gold"
+  },
+  {
+    "id": "86",
+    "name": "Chrome Green"
+  },
+  {
+    "id": "87",
+    "name": "Dark Poopy Brown"
+  },
+  {
+    "id": "88",
+    "name": "Chrome Pink"
+  },
+  {
+    "id": "89",
+    "name": "Metallic Pink"
+  },
+  {
+    "id": "90",
+    "name": "Moldy Gold"
+  },
+  {
+    "id": "91",
+    "name": "Dark Choclate"
+  },
+  {
+    "id": "92",
+    "name": "Light Chocolate"
+  },
+  {
+    "id": "93",
+    "name": "Dark Cement Grey"
+  },
+  {
+    "id": "94",
+    "name": "Rhubarb"
+  },
+  {
+    "id": "95",
+    "name": "Light Dirtish Brown"
+  },
+  {
+    "id": "96",
+    "name": "Chrome Blue"
+  },
+  {
+    "id": "97",
+    "name": "Light Minty Blue"
+  },
+  {
+    "id": "98",
+    "name": "Leaf Green"
+  },
+  {
+    "id": "99",
+    "name": "Dark Gold"
+  },
+  {
+    "id": "100",
+    "name": "Dark Iron Grey"
+  },
+  {
+    "id": "101",
+    "name": "Light Metallic Red"
+  },
+  {
+    "id": "102",
+    "name": "Sea Blue"
+  },
+  {
+    "id": "103",
+    "name": "Forest Green"
+  },
+  {
+    "id": "104",
+    "name": "Dark Chrome Purple"
+  },
+  {
+    "id": "105",
+    "name": "White"
+  },
+  {
+    "id": "106",
+    "name": "Pale Pink"
+  },
+  {
+    "id": "107",
+    "name": "Khaki"
+  },
+  {
+    "id": "108",
+    "name": "Pinkish Grey"
+  },
+  {
+    "id": "109",
+    "name": "Terracotta"
+  },
+  {
+    "id": "110",
+    "name": "Ash"
+  },
+  {
+    "id": "111",
+    "name": "Burnt Sienna"
+  },
+  {
+    "id": "112",
+    "name": "Seafoam"
+  },
+  {
+    "id": "113",
+    "name": "Fog"
+  },
+  {
+    "id": "114",
+    "name": "Yet Another Brown"
+  },
+  {
+    "id": "115",
+    "name": "Sunkissed"
+  },
+  {
+    "id": "116",
+    "name": "Solid Grey"
+  },
+  {
+    "id": "117",
+    "name": "Solid Grey"
+  },
+  {
+    "id": "118",
+    "name": "Solid Grey"
+  },
+  {
+    "id": "119",
+    "name": "Solid Grey"
+  }
+]

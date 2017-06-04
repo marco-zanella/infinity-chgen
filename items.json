@@ -1,0 +1,2040 @@
+{
+  "Empty": [
+    {
+      "id": "null",
+      "name": "Empty"
+    }
+  ],
+  "Amulets": [
+    {
+      "id": "AMUL01",
+      "name": "Necklace of Missiles"
+    },
+    {
+      "id": "AMUL02",
+      "name": "Necklace"
+    },
+    {
+      "id": "AMUL04",
+      "name": "Studded Necklace with Zios Gems"
+    },
+    {
+      "id": "AMUL05",
+      "name": "Bluestone Necklace"
+    },
+    {
+      "id": "AMUL06",
+      "name": "Agni Mani Necklace"
+    },
+    {
+      "id": "AMUL07",
+      "name": "Rainbow Obsidian Necklace"
+    },
+    {
+      "id": "AMUL08",
+      "name": "Tiger Cowrie Shell Necklace"
+    },
+    {
+      "id": "AMUL09",
+      "name": "Silver Necklace"
+    },
+    {
+      "id": "AMUL10",
+      "name": "Gold Necklace"
+    },
+    {
+      "id": "AMUL11",
+      "name": "Pearl Necklace"
+    },
+    {
+      "id": "AMUL12",
+      "name": "Laeral's Tear Necklace"
+    },
+    {
+      "id": "AMUL13",
+      "name": "Bloodstone Amulet"
+    },
+    {
+      "id": "AMUL14",
+      "name": "Amulet of Protection +1"
+    },
+    {
+      "id": "AMUL15",
+      "name": "Shield Amulet"
+    },
+    {
+      "id": "AMUL16",
+      "name": "Amulet of Metaspell Influence"
+    },
+    {
+      "id": "AMUL17",
+      "name": "Greenstorne Amulet"
+    }
+  ],
+  "Arrows": [
+    {
+      "id": "AROW01",
+      "name": "Arrow"
+    },
+    {
+      "id": "AROW02",
+      "name": "Arrow +1"
+    },
+    {
+      "id": "AROW03",
+      "name": "Arrow of Slaying"
+    },
+    {
+      "id": "AROW04",
+      "name": "Acid Arrow"
+    },
+    {
+      "id": "AROW05",
+      "name": "Arrow of Biting"
+    },
+    {
+      "id": "AROW06",
+      "name": "Arrow of Detonation"
+    },
+    {
+      "id": "AROW07",
+      "name": "Arrow or Dispelling"
+    },
+    {
+      "id": "AROW08",
+      "name": "Arrow of Fire"
+    },
+    {
+      "id": "AROW09",
+      "name": "Arrow of Ice"
+    },
+    {
+      "id": "AROW10",
+      "name": "Arrow of Piercing"
+    },
+    {
+      "id": "AROW11",
+      "name": "Arrow +2"
+    },
+    {
+      "id": "AROW1A",
+      "name": "Arrow +2"
+    }
+  ],
+  "Axes": [
+    {
+      "id": "AX1H01",
+      "name": "Battle Axe"
+    },
+    {
+      "id": "AX1H02",
+      "name": "Battle Axe +1"
+    },
+    {
+      "id": "AX1H03",
+      "name": "Battle Axe +2"
+    },
+    {
+      "id": "AX1H04",
+      "name": "Throwing Axe"
+    },
+    {
+      "id": "AX1H05",
+      "name": "Throwing Axe +2"
+    }
+  ],
+  "Belts": [
+    {
+      "id": "BELT01",
+      "name": "Girdle"
+    },
+    {
+      "id": "BELT02",
+      "name": "Golden Girdle"
+    },
+    {
+      "id": "BELT03",
+      "name": "Girdle of Bluntness"
+    },
+    {
+      "id": "BELT04",
+      "name": "Girdle of Piercing"
+    },
+    {
+      "id": "BELT05",
+      "name": "Girdle of Sex Change"
+    }
+  ],
+  "Blunt weapons": [
+    {
+      "id": "BLUN01",
+      "name": "Club"
+    },
+    {
+      "id": "BLUN02",
+      "name": "Flail"
+    },
+    {
+      "id": "BLUN03",
+      "name": "Flail +1"
+    },
+    {
+      "id": "BLUN04",
+      "name": "Mace"
+    },
+    {
+      "id": "BLUN05",
+      "name": "Mace +1"
+    },
+    {
+      "id": "BLUN06",
+      "name": "Morning Star"
+    },
+    {
+      "id": "BLUN07",
+      "name": "Morning Star +1"
+    },
+    {
+      "id": "BLUN08",
+      "name": "Flail"
+    }
+  ],
+  "Bolts": [
+    {
+      "id": "BOLT01",
+      "name": "Bolt"
+    },
+    {
+      "id": "BOLT02",
+      "name": "Bolt +1"
+    },
+    {
+      "id": "BOLT03",
+      "name": "Bolt of Lightning"
+    },
+    {
+      "id": "BOLT04",
+      "name": "Bolt of Biting"
+    },
+    {
+      "id": "BOLT05",
+      "name": "Bolt of Polymorphing"
+    },
+    {
+      "id": "BOLT06",
+      "name": "Bolt +2"
+    }
+  ],
+  "Books": [
+    {
+      "id": "BOOK01",
+      "name": "Magical Book"
+    },
+    {
+      "id": "BOOK02",
+      "name": "Spell Book"
+    },
+    {
+      "id": "BOOK03",
+      "name": "+1 Con"
+    },
+    {
+      "id": "BOOK04",
+      "name": "+1 Str"
+    },
+    {
+      "id": "BOOK05",
+      "name": "+1 Dex"
+    },
+    {
+      "id": "BOOK06",
+      "name": "+1 Int"
+    },
+    {
+      "id": "BOOK07",
+      "name": "+1 Chr"
+    },
+    {
+      "id": "BOOK08",
+      "name": "+1 Wis"
+    },
+    {
+      "id": "BOOK09",
+      "name": "Normal Book"
+    },
+    {
+      "id": "BOOK68",
+      "name": "Book of Ancient Knowledge\/History of the Nether Scrolls"
+    },
+    {
+      "id": "BOOK70",
+      "name": "Yago's Book of Curses"
+    }
+  ],
+  "Boots": [
+    {
+      "id": "BOOT01",
+      "name": "Boots of Speed"
+    },
+    {
+      "id": "BOOT02",
+      "name": "Boots of Stealth"
+    },
+    {
+      "id": "BOOT03",
+      "name": "Boots of the North"
+    },
+    {
+      "id": "BOOT04",
+      "name": "Boots of Avoidance"
+    },
+    {
+      "id": "BOOT05",
+      "name": "Boots of Grounding"
+    }
+  ],
+  "Bows": [
+    {
+      "id": "BOW01",
+      "name": "Composite Long Bow"
+    },
+    {
+      "id": "BOW02",
+      "name": "Composite Long Bow +1"
+    },
+    {
+      "id": "BOW03",
+      "name": "Long Bow"
+    },
+    {
+      "id": "BOW04",
+      "name": "Long Bow +1"
+    },
+    {
+      "id": "BOW05",
+      "name": "Short Bow"
+    },
+    {
+      "id": "BOW06",
+      "name": "Short Bow +1"
+    },
+    {
+      "id": "BOW07",
+      "name": "Long Bow of Marksmanship"
+    },
+    {
+      "id": "BOW08",
+      "name": "Eagle Bow"
+    }
+  ],
+  "Bracers": [
+    {
+      "id": "BRAC01",
+      "name": "Bracers of Defense AC 8"
+    },
+    {
+      "id": "BRAC02",
+      "name": "Bracers of Defense AC 7"
+    },
+    {
+      "id": "BRAC03",
+      "name": "Bracers of Defense AC 6"
+    },
+    {
+      "id": "BRAC04",
+      "name": "Bracers of Archery"
+    },
+    {
+      "id": "BRAC05",
+      "name": "Bracers"
+    },
+    {
+      "id": "BRAC06",
+      "name": "Gauntlets of Ogre Power"
+    },
+    {
+      "id": "BRAC07",
+      "name": "Gauntlets of Dexterity"
+    },
+    {
+      "id": "BRAC08",
+      "name": "Gauntlets of Fumbling"
+    },
+    {
+      "id": "BRAC09",
+      "name": "Gauntlets of Weapon Skill"
+    },
+    {
+      "id": "BRAC10",
+      "name": "Gauntlets of Weapon Expertise"
+    },
+    {
+      "id": "BRAC11",
+      "name": "Bracers of Binding"
+    }
+  ],
+  "Bullets": [
+    {
+      "id": "BULL01",
+      "name": "Bullet"
+    },
+    {
+      "id": "BULL02",
+      "name": "Bullet +1"
+    },
+    {
+      "id": "BULL03",
+      "name": "Bullet +2"
+    }
+  ],
+  "Chainmails": [
+    {
+      "id": "CHAN01",
+      "name": "Chainmail"
+    },
+    {
+      "id": "CHAN02",
+      "name": "Chainmail +1"
+    },
+    {
+      "id": "CHAN03",
+      "name": "Chainmail +2"
+    },
+    {
+      "id": "CHAN04",
+      "name": "Splint Mail"
+    },
+    {
+      "id": "CHAN05",
+      "name": "Splint Mail +1"
+    },
+    {
+      "id": "CHAN06",
+      "name": "Mithril Chain Mail +4"
+    }
+  ],
+  "Cloaks": [
+    {
+      "id": "CLCK01",
+      "name": "Cloak of Protection +1"
+    },
+    {
+      "id": "CLCK02",
+      "name": "Cloak of Protection +2"
+    },
+    {
+      "id": "CLCK03",
+      "name": "Cloak of Displacement"
+    },
+    {
+      "id": "CLCK04",
+      "name": "Cloak of the Wolf"
+    },
+    {
+      "id": "CLCK05",
+      "name": "Cloak of Balduran"
+    },
+    {
+      "id": "CLCK06",
+      "name": "Cloak of Non-Detection"
+    },
+    {
+      "id": "CLCK07",
+      "name": "Nymph Cloak"
+    },
+    {
+      "id": "CLCK08",
+      "name": "Algernon's Cloak"
+    },
+    {
+      "id": "CLCK09",
+      "name": "Mage Robe of Cold Resistance"
+    },
+    {
+      "id": "CLCK10",
+      "name": "Mage Robe of Fire Resistance"
+    },
+    {
+      "id": "CLCK11",
+      "name": "Mage Robe of Electrical Resistance"
+    },
+    {
+      "id": "CLCK12",
+      "name": "Knave's Robe"
+    },
+    {
+      "id": "CLCK13",
+      "name": "Traveller's Robe"
+    },
+    {
+      "id": "CLCK14",
+      "name": "Adventurer's Robe"
+    },
+    {
+      "id": "CLCK15",
+      "name": "Robe of the Good Archmagi"
+    },
+    {
+      "id": "CLCK16",
+      "name": "Robe of the Neutral Archmagi"
+    },
+    {
+      "id": "CLCK17",
+      "name": "Robe of the Evil Archmagi"
+    },
+    {
+      "id": "CLCK18",
+      "name": "Knave's Robe"
+    },
+    {
+      "id": "CLCK19",
+      "name": "Robe of the Good Archmagi"
+    },
+    {
+      "id": "CLCK20",
+      "name": "Cloak of the Shield"
+    },
+    {
+      "id": "CLCK21",
+      "name": "Holy cloak"
+    },
+    {
+      "id": "CLCK22",
+      "name": "Shandalar's cloak"
+    }
+  ],
+  "Daggers": [
+    {
+      "id": "DAGG01",
+      "name": "Dagger"
+    },
+    {
+      "id": "DAGG02",
+      "name": "Dagger +1"
+    },
+    {
+      "id": "DAGG03",
+      "name": "Dagger +2"
+    },
+    {
+      "id": "DAGG04",
+      "name": "Dagger +2, Longtooth"
+    },
+    {
+      "id": "DAGG05",
+      "name": "Throwing Dagger"
+    },
+    {
+      "id": "DAGG06",
+      "name": "Nester's Dagger"
+    },
+    {
+      "id": "DAGG07",
+      "name": "Kylee's Dagger"
+    },
+    {
+      "id": "DAGG08",
+      "name": "Hentold's Dagger"
+    },
+    {
+      "id": "DAGG09",
+      "name": "Silver Dagger - Werebane"
+    },
+    {
+      "id": "DAGG10",
+      "name": "Soultaker Dagger"
+    }
+  ],
+  "Darts": [
+    {
+      "id": "DART01",
+      "name": "Dart"
+    },
+    {
+      "id": "DART02",
+      "name": "Dart +1"
+    },
+    {
+      "id": "DART03",
+      "name": "Dart of Stunning"
+    },
+    {
+      "id": "DART04",
+      "name": "Dart of Wounding"
+    }
+  ],
+  "Halberds": [
+    {
+      "id": "HALB01",
+      "name": "Halberd"
+    },
+    {
+      "id": "HALB02",
+      "name": "Halberd +1"
+    },
+    {
+      "id": "HALB03",
+      "name": "Halberd +2"
+    }
+  ],
+  "Hammers": [
+    {
+      "id": "HAMM01",
+      "name": "War Hammer"
+    },
+    {
+      "id": "HAMM02",
+      "name": "War Hammer +1"
+    },
+    {
+      "id": "HAMM03",
+      "name": "War hammer +2"
+    },
+    {
+      "id": "HAMM04",
+      "name": "War hammer +1, +4 vs gian humanoids"
+    }
+  ],
+  "Helms": [
+    {
+      "id": "HELM01",
+      "name": "Helmet"
+    },
+    {
+      "id": "HELM02",
+      "name": "Helm of Opposite Alignment"
+    },
+    {
+      "id": "HELM03",
+      "name": "Helm of Glory"
+    },
+    {
+      "id": "HELM04",
+      "name": "Helm of Defense"
+    },
+    {
+      "id": "HELM05",
+      "name": "Helm of Infravision"
+    },
+    {
+      "id": "HELM06",
+      "name": "Helm of Charm Protection"
+    },
+    {
+      "id": "HELM07",
+      "name": "Helm of Balduran"
+    },
+    {
+      "id": "HELM08",
+      "name": "Helmet"
+    },
+    {
+      "id": "HELM09",
+      "name": "Helmet"
+    },
+    {
+      "id": "HELM10",
+      "name": "Helmet"
+    },
+    {
+      "id": "HELM11",
+      "name": "Helmet"
+    },
+    {
+      "id": "HELM12",
+      "name": "Helmet"
+    },
+    {
+      "id": "HELM13",
+      "name": "Helmet"
+    }
+  ],
+  "Leather armors": [
+    {
+      "id": "LEAT01",
+      "name": "Leather Armor"
+    },
+    {
+      "id": "LEAT02",
+      "name": "Leather Armor +1"
+    },
+    {
+      "id": "LEAT03",
+      "name": "Leather Armor +2"
+    },
+    {
+      "id": "LEAT04",
+      "name": "Studded Leather Armor"
+    },
+    {
+      "id": "LEAT05",
+      "name": "Studded Leather Armor +1"
+    },
+    {
+      "id": "LEAT06",
+      "name": "Studded Leather Armor +2, missile attraction"
+    },
+    {
+      "id": "LEAT07",
+      "name": "Studded Leather Armor +2"
+    },
+    {
+      "id": "LEAT08",
+      "name": "Shadow Armor"
+    },
+    {
+      "id": "LEAT09",
+      "name": "Leather Armor +3"
+    },
+    {
+      "id": "LEAT10",
+      "name": "Hide Armor"
+    }
+  ],
+  "Miscellaneous": [
+    {
+      "id": "MISC01",
+      "name": "Winter Wolf Pelt"
+    },
+    {
+      "id": "MISC02",
+      "name": "Mirror"
+    },
+    {
+      "id": "MISC03",
+      "name": "Small Box"
+    },
+    {
+      "id": "MISC04",
+      "name": "Bassilus' Holy Symbol"
+    },
+    {
+      "id": "MISC07",
+      "name": "Gold Piece"
+    },
+    {
+      "id": "MISC12",
+      "name": "Ankheg Shell"
+    },
+    {
+      "id": "MISC13",
+      "name": "Samuel (body)"
+    },
+    {
+      "id": "MISC16",
+      "name": "Fire Agate Gem"
+    },
+    {
+      "id": "MISC17",
+      "name": "Lynx Eye Gem"
+    },
+    {
+      "id": "MISC18",
+      "name": "Sunstone Gem"
+    },
+    {
+      "id": "MISC19",
+      "name": "Turquoise Gem"
+    },
+    {
+      "id": "MISC20",
+      "name": "Bloodstone Gem"
+    },
+    {
+      "id": "MISC21",
+      "name": "Skydrop Gem"
+    },
+    {
+      "id": "MISC22",
+      "name": "Andar Gem"
+    },
+    {
+      "id": "MISC23",
+      "name": "Jasper Gem"
+    },
+    {
+      "id": "MISC24",
+      "name": "Tchazar Gem"
+    },
+    {
+      "id": "MISC25",
+      "name": "Zircon Gem"
+    },
+    {
+      "id": "MISC26",
+      "name": "Iol Gem"
+    },
+    {
+      "id": "MISC27",
+      "name": "Moonstone Gem"
+    },
+    {
+      "id": "MISC28",
+      "name": "Waterstar Gem"
+    },
+    {
+      "id": "MISC29",
+      "name": "Ziose Gem"
+    },
+    {
+      "id": "MISC30",
+      "name": "Chrysoberyl Gem"
+    },
+    {
+      "id": "MISC31",
+      "name": "Star Diopside Gem"
+    },
+    {
+      "id": "MISC32",
+      "name": "Shandon Gem"
+    },
+    {
+      "id": "MISC33",
+      "name": "Aquamarine Gem"
+    },
+    {
+      "id": "MISC34",
+      "name": "Garnet Gem"
+    },
+    {
+      "id": "MISC35",
+      "name": "Horn Coral Gem"
+    },
+    {
+      "id": "MISC36",
+      "name": "Pearl"
+    },
+    {
+      "id": "MISC37",
+      "name": "Sphene Gem"
+    },
+    {
+      "id": "MISC38",
+      "name": "Black Opal"
+    },
+    {
+      "id": "MISC39",
+      "name": "Water Opal"
+    },
+    {
+      "id": "MISC40",
+      "name": "Moonbar Gem"
+    },
+    {
+      "id": "MISC41",
+      "name": "Star Sapphire"
+    },
+    {
+      "id": "MISC42",
+      "name": "Diamond"
+    },
+    {
+      "id": "MISC43",
+      "name": "Emerald"
+    },
+    {
+      "id": "MISC44",
+      "name": "Kings Tears"
+    },
+    {
+      "id": "MISC45",
+      "name": "Rogue Stone"
+    },
+    {
+      "id": "MISC47",
+      "name": "Golden Pantaloons"
+    },
+    {
+      "id": "MISC48",
+      "name": "Idol"
+    },
+    {
+      "id": "MISC49",
+      "name": "Melicamp the Chicken"
+    },
+    {
+      "id": "MISC50",
+      "name": "Skull"
+    },
+    {
+      "id": "MISC51",
+      "name": "Lock of Nymph's Hair"
+    },
+    {
+      "id": "MISC52",
+      "name": "Wyvern Head"
+    },
+    {
+      "id": "MISC53",
+      "name": "Bowl of Water Elemental Control"
+    },
+    {
+      "id": "MISC54",
+      "name": "Child's Body"
+    },
+    {
+      "id": "MISC55",
+      "name": "Duke Eltan's Body"
+    },
+    {
+      "id": "MISC56",
+      "name": "Broken Weapon"
+    },
+    {
+      "id": "MISC57",
+      "name": "Broken Shield"
+    },
+    {
+      "id": "MISC58",
+      "name": "Broken Armor"
+    },
+    {
+      "id": "MISC59",
+      "name": "Broken Miscellaneous"
+    },
+    {
+      "id": "MISC60",
+      "name": "Spider Body"
+    },
+    {
+      "id": "MISC61",
+      "name": "Bottle of Wine"
+    },
+    {
+      "id": "MISC62",
+      "name": "Dead Cat"
+    },
+    {
+      "id": "MISC63",
+      "name": "Chew Toy"
+    },
+    {
+      "id": "MISC64",
+      "name": "Telescope"
+    },
+    {
+      "id": "MISC65",
+      "name": "Brage's Body"
+    },
+    {
+      "id": "MISC66",
+      "name": "Farmer Brun's Son (Dead)"
+    },
+    {
+      "id": "MISC67",
+      "name": "Brun's Dead Son"
+    },
+    {
+      "id": "MISC68",
+      "name": "Abela the Nymph"
+    },
+    {
+      "id": "MISC69",
+      "name": "Helshara's Artifact Fragment"
+    },
+    {
+      "id": "MISC70",
+      "name": "Delorna's Statue"
+    },
+    {
+      "id": "MISC71",
+      "name": "Delorna's Spellbook"
+    },
+    {
+      "id": "MISC72",
+      "name": "The Claw of Kazgaroth"
+    },
+    {
+      "id": "MISC73",
+      "name": "The Horn of Kazgaroth"
+    },
+    {
+      "id": "MISC74",
+      "name": "The Candle"
+    },
+    {
+      "id": "MISC75",
+      "name": "Dagger of Venom"
+    },
+    {
+      "id": "MISC76",
+      "name": "The Dream Potion"
+    },
+    {
+      "id": "MISC77",
+      "name": "Skull of Kereph"
+    },
+    {
+      "id": "MISC78",
+      "name": "Invitation"
+    },
+    {
+      "id": "MISC79",
+      "name": "Female Body"
+    },
+    {
+      "id": "MISC80",
+      "name": "Male Body"
+    },
+    {
+      "id": "MISC81",
+      "name": "Skull of Kereph"
+    },
+    {
+      "id": "MISC82",
+      "name": "Ancient Armor"
+    },
+    {
+      "id": "MISC83",
+      "name": "Key to River Plug"
+    },
+    {
+      "id": "MISC84",
+      "name": "Boo"
+    },
+    {
+      "id": "MISC85",
+      "name": "Mulahey's Holy Symbol"
+    },
+    {
+      "id": "MISC86",
+      "name": "Bandit Scalp"
+    },
+    {
+      "id": "MISC87",
+      "name": "Contaminated Iron"
+    },
+    {
+      "id": "MISC88",
+      "name": "Rabbit's Foot"
+    },
+    {
+      "id": "MISC89",
+      "name": "Edwin's Amulet"
+    },
+    {
+      "id": "MISC90",
+      "name": "Chelak's Body"
+    },
+    {
+      "id": "MISC91",
+      "name": "Grapes"
+    },
+    {
+      "id": "MISC92",
+      "name": "Switch for engine"
+    },
+    {
+      "id": "MISC93",
+      "name": "Odd looking key"
+    },
+    {
+      "id": "MISC94",
+      "name": "Mallet head"
+    },
+    {
+      "id": "MISC95",
+      "name": "Mallet handle"
+    },
+    {
+      "id": "MISC96",
+      "name": "Peladon"
+    },
+    {
+      "id": "MISC97",
+      "name": "De'Tranion's Baalor ale"
+    },
+    {
+      "id": "MISC98",
+      "name": "Durlag's globet"
+    },
+    {
+      "id": "MISC99",
+      "name": "Plate mail armor"
+    }
+  ],
+  "Plate mail armors": [
+    {
+      "id": "PLAT01",
+      "name": "Plate Mail Armor"
+    },
+    {
+      "id": "PLAT02",
+      "name": "Plate Mail +1"
+    },
+    {
+      "id": "PLAT04",
+      "name": "Full Plate Mail"
+    },
+    {
+      "id": "PLAT05",
+      "name": "Full Plate Mail +1"
+    },
+    {
+      "id": "PLAT06",
+      "name": "Ankheg Plate Mail"
+    },
+    {
+      "id": "PLAT07",
+      "name": "Plate Mail"
+    },
+    {
+      "id": "PLAT08",
+      "name": "Plate Mail +3"
+    }
+  ],
+  "Potions": [
+    {
+      "id": "POTN02",
+      "name": "Potion of Fire Resistance"
+    },
+    {
+      "id": "POTN03",
+      "name": "Potion of Hill Giant Strength"
+    },
+    {
+      "id": "POTN04",
+      "name": "Potion of Frost Giant Strength"
+    },
+    {
+      "id": "POTN05",
+      "name": "Potion of Fire Giant Strength"
+    },
+    {
+      "id": "POTN06",
+      "name": "Potion of Cloud Giant Strength"
+    },
+    {
+      "id": "POTN07",
+      "name": "Potion of Storm Giant Strength"
+    },
+    {
+      "id": "POTN08",
+      "name": "Potion of Healing"
+    },
+    {
+      "id": "POTN09",
+      "name": "Potion of Heroism"
+    },
+    {
+      "id": "POTN10",
+      "name": "Potion of Invisibility"
+    },
+    {
+      "id": "POTN11",
+      "name": "Potion of Invulnerability"
+    },
+    {
+      "id": "POTN12",
+      "name": "Potion of Stone Giant Strength"
+    },
+    {
+      "id": "POTN13",
+      "name": "Oil of Firey Burning"
+    },
+    {
+      "id": "POTN14",
+      "name": "Oil of Speed"
+    },
+    {
+      "id": "POTN15",
+      "name": "Red Potion"
+    },
+    {
+      "id": "POTN16",
+      "name": "Violet Potion"
+    },
+    {
+      "id": "POTN17",
+      "name": "Elixir of Health"
+    },
+    {
+      "id": "POTN18",
+      "name": "Potion of Absorption"
+    },
+    {
+      "id": "POTN19",
+      "name": "Potion of Agility"
+    },
+    {
+      "id": "POTN20",
+      "name": "Antidote"
+    },
+    {
+      "id": "POTN21",
+      "name": "Potion of Clarity"
+    },
+    {
+      "id": "POTN22",
+      "name": "Potion of Cold Resistance"
+    },
+    {
+      "id": "POTN23",
+      "name": "Oil of Speed"
+    },
+    {
+      "id": "POTN24",
+      "name": "Potion of Defense"
+    },
+    {
+      "id": "POTN25",
+      "name": "Potion of Healing"
+    },
+    {
+      "id": "POTN26",
+      "name": "Potion of Explosions"
+    },
+    {
+      "id": "POTN27",
+      "name": "Potion of Firebreath"
+    },
+    {
+      "id": "POTN28",
+      "name": "Potion of Fortitude"
+    },
+    {
+      "id": "POTN29",
+      "name": "Potion of Genius"
+    },
+    {
+      "id": "POTN30",
+      "name": "Potion of Infravision"
+    },
+    {
+      "id": "POTN31",
+      "name": "Potion of Insulation"
+    },
+    {
+      "id": "POTN32",
+      "name": "Antidote"
+    },
+    {
+      "id": "POTN33",
+      "name": "Potion of Magic Blocking"
+    },
+    {
+      "id": "POTN34",
+      "name": "Potion of Magic Protection"
+    },
+    {
+      "id": "POTN35",
+      "name": "Potion of Magic Shielding"
+    },
+    {
+      "id": "POTN36",
+      "name": "Potion of Master Thievery"
+    },
+    {
+      "id": "POTN37",
+      "name": "Potion of Mind Focusing"
+    },
+    {
+      "id": "POTN38",
+      "name": "Potion of Mirrored Eyes"
+    },
+    {
+      "id": "POTN39",
+      "name": "Potion of Perception"
+    },
+    {
+      "id": "POTN40",
+      "name": "Potion of Invulnerability"
+    },
+    {
+      "id": "POTN41",
+      "name": "Potion of Power"
+    },
+    {
+      "id": "POTN42",
+      "name": "Potion of Regeneration"
+    },
+    {
+      "id": "POTN43",
+      "name": "Potion of Insight"
+    },
+    {
+      "id": "POTN44",
+      "name": "Potion of Strength"
+    },
+    {
+      "id": "POTN45",
+      "name": "Potion of Freedom"
+    },
+    {
+      "id": "POTN46",
+      "name": "Potion of Stone Form"
+    },
+    {
+      "id": "POTN47",
+      "name": "Marek's Antidote"
+    },
+    {
+      "id": "POTN48",
+      "name": "Vial of Mysterious Liquid"
+    }
+  ],
+  "Rings": [
+    {
+      "id": "RING01",
+      "name": "Ring"
+    },
+    {
+      "id": "RING02",
+      "name": "Ring of Fire Resistance"
+    },
+    {
+      "id": "RING03",
+      "name": "Ring of Animal Friendship"
+    },
+    {
+      "id": "RING04",
+      "name": "Ring of Clumsiness"
+    },
+    {
+      "id": "RING05",
+      "name": "Ring of Invisibility"
+    },
+    {
+      "id": "RING06",
+      "name": "Ring of Protection +1"
+    },
+    {
+      "id": "RING07",
+      "name": "Ring of Protection +2"
+    },
+    {
+      "id": "RING08",
+      "name": "Ring of Wizardry"
+    },
+    {
+      "id": "RING09",
+      "name": "Ring of Free Action"
+    },
+    {
+      "id": "RING10",
+      "name": "Gold Ring"
+    },
+    {
+      "id": "RING11",
+      "name": "Silver Ring"
+    },
+    {
+      "id": "RING12",
+      "name": "Onyx Ring"
+    },
+    {
+      "id": "RING13",
+      "name": "Jade Ring"
+    },
+    {
+      "id": "RING14",
+      "name": "Greenstone Ring"
+    },
+    {
+      "id": "RING15",
+      "name": "Bloodstone Ring"
+    },
+    {
+      "id": "RING16",
+      "name": "Angel Skin Ring"
+    },
+    {
+      "id": "RING17",
+      "name": "Flamedance Ring"
+    },
+    {
+      "id": "RING18",
+      "name": "Fire Opal Ring"
+    },
+    {
+      "id": "RING19",
+      "name": "Ruby Ring"
+    },
+    {
+      "id": "RING20",
+      "name": "Ring of Energy"
+    },
+    {
+      "id": "RING21",
+      "name": "Ring of Infravision"
+    },
+    {
+      "id": "RING22",
+      "name": "Ring of Holiness"
+    },
+    {
+      "id": "RING23",
+      "name": "Ring of Folly"
+    },
+    {
+      "id": "RING25",
+      "name": "Koveras' Ring of Protection (+1)"
+    }
+  ],
+  "Scrolls": [
+    {
+      "id": "SCRL02",
+      "name": "Spell Scroll"
+    },
+    {
+      "id": "SCRL03",
+      "name": "Protection from Acid"
+    },
+    {
+      "id": "SCRL04",
+      "name": "Protection from Cold"
+    },
+    {
+      "id": "SCRL05",
+      "name": "Protection from Electricity"
+    },
+    {
+      "id": "SCRL06",
+      "name": "Protection from Fire"
+    },
+    {
+      "id": "SCRL07",
+      "name": "Protection from Magic"
+    },
+    {
+      "id": "SCRL08",
+      "name": "Protection from Poison"
+    },
+    {
+      "id": "SCRL09",
+      "name": "Protection from Undead"
+    },
+    {
+      "id": "SCRL10",
+      "name": "Cursed Scroll of Weakness"
+    },
+    {
+      "id": "SCRL11",
+      "name": "Cursed Scroll of Clumsiness"
+    },
+    {
+      "id": "SCRL12",
+      "name": "Cursed Scroll of Foolishness"
+    },
+    {
+      "id": "SCRL13",
+      "name": "Cursed Scroll of Ugliness"
+    },
+    {
+      "id": "SCRL14",
+      "name": "Cursed Scroll of Summon Monster"
+    },
+    {
+      "id": "SCRL15",
+      "name": "Protection from Petrification"
+    },
+    {
+      "id": "SCRL18",
+      "name": "Cursed Scroll of Stupidity"
+    },
+    {
+      "id": "SCRL1B",
+      "name": "Agannazar's Scorcher"
+    },
+    {
+      "id": "SCRL1C",
+      "name": "Ghoul Touch"
+    },
+    {
+      "id": "SCRL1D",
+      "name": "Clairvoyance"
+    },
+    {
+      "id": "SCRL1E",
+      "name": "Dispel Magic"
+    },
+    {
+      "id": "SCRL1F",
+      "name": "Flame Arrow"
+    },
+    {
+      "id": "SCRL1G",
+      "name": "Fireball"
+    },
+    {
+      "id": "SCRL1H",
+      "name": "Haste"
+    },
+    {
+      "id": "SCRL1I",
+      "name": "Hold Person"
+    },
+    {
+      "id": "SCRL1K",
+      "name": "Lightning Bolt"
+    },
+    {
+      "id": "SCRL1L",
+      "name": "Monster Summoning I"
+    },
+    {
+      "id": "SCRL1M",
+      "name": "Non"
+    },
+    {
+      "id": "SCRL1N",
+      "name": "Protection from Normal Missiles"
+    },
+    {
+      "id": "SCRL1O",
+      "name": "Slow"
+    },
+    {
+      "id": "SCRL1P",
+      "name": "Skull Trap"
+    },
+    {
+      "id": "SCRL1Q",
+      "name": "Vampiric Touch"
+    },
+    {
+      "id": "SCRL1R",
+      "name": "Wraith Form"
+    },
+    {
+      "id": "SCRL1S",
+      "name": "Dire Charm"
+    },
+    {
+      "id": "SCRL1T",
+      "name": "Ghost Armor"
+    },
+    {
+      "id": "SCRL1U",
+      "name": "Confusion"
+    },
+    {
+      "id": "SCRL1V",
+      "name": "Dimension Door"
+    },
+    {
+      "id": "SCRL1Y",
+      "name": "Improved Invisibility"
+    },
+    {
+      "id": "SCRL1Z",
+      "name": "Minor Globe of Invulnerability"
+    },
+    {
+      "id": "SCRL2A",
+      "name": "Monster Summoning II"
+    },
+    {
+      "id": "SCRL2D",
+      "name": "Animate Dead"
+    },
+    {
+      "id": "SCRL2E",
+      "name": "Cloudkill"
+    },
+    {
+      "id": "SCRL2F",
+      "name": "Cone of Cold"
+    },
+    {
+      "id": "SCRL2G",
+      "name": "Monster Summoning III"
+    },
+    {
+      "id": "SCRL2H",
+      "name": "Shadow Door"
+    },
+    {
+      "id": "SCRL2I",
+      "name": "Letter"
+    },
+    {
+      "id": "SCRL2J",
+      "name": "Letter"
+    },
+    {
+      "id": "SCRL3D",
+      "name": "Letter"
+    },
+    {
+      "id": "SCRL56",
+      "name": "Cure Serious Wounds"
+    },
+    {
+      "id": "SCRL58",
+      "name": "Free Action"
+    },
+    {
+      "id": "SCRL59",
+      "name": "Neutralize Poison"
+    },
+    {
+      "id": "SCRL61",
+      "name": "Cure Critical Wounds"
+    },
+    {
+      "id": "SCRL62",
+      "name": "Flame Strike"
+    },
+    {
+      "id": "SCRL63",
+      "name": "Raise Dead"
+    },
+    {
+      "id": "SCRL66",
+      "name": "Grease"
+    },
+    {
+      "id": "SCRL67",
+      "name": "Armor"
+    },
+    {
+      "id": "SCRL68",
+      "name": "Burning Hands"
+    },
+    {
+      "id": "SCRL69",
+      "name": "Charm Person"
+    },
+    {
+      "id": "SCRL70",
+      "name": "Color Spray"
+    },
+    {
+      "id": "SCRL71",
+      "name": "Blindness"
+    },
+    {
+      "id": "SCRL72",
+      "name": "Friends"
+    },
+    {
+      "id": "SCRL73",
+      "name": "Protection from Petrification"
+    },
+    {
+      "id": "SCRL75",
+      "name": "Identify"
+    },
+    {
+      "id": "SCRL76",
+      "name": "Infravision"
+    },
+    {
+      "id": "SCRL77",
+      "name": "Magic Missile"
+    },
+    {
+      "id": "SCRL78",
+      "name": "Protection from Evil"
+    },
+    {
+      "id": "SCRL79",
+      "name": "Shield"
+    },
+    {
+      "id": "SCRL80",
+      "name": "Shocking Grasp"
+    },
+    {
+      "id": "SCRL81",
+      "name": "Sleep"
+    },
+    {
+      "id": "SCRL82",
+      "name": "Chill Touch"
+    },
+    {
+      "id": "SCRL83",
+      "name": "Chromatic Orb"
+    },
+    {
+      "id": "SCRL84",
+      "name": "Larloch's Minor Drain"
+    },
+    {
+      "id": "SCRL85",
+      "name": "Blur"
+    },
+    {
+      "id": "SCRL86",
+      "name": "Detect Evil"
+    },
+    {
+      "id": "SCRL87",
+      "name": "Detect Invisibility"
+    },
+    {
+      "id": "SCRL89",
+      "name": "Horror"
+    },
+    {
+      "id": "SCRL90",
+      "name": "Invisibility"
+    },
+    {
+      "id": "SCRL91",
+      "name": "Knock"
+    },
+    {
+      "id": "SCRL92",
+      "name": "Know Alignment"
+    },
+    {
+      "id": "SCRL93",
+      "name": "Luck"
+    },
+    {
+      "id": "SCRL94",
+      "name": "Resist Fear"
+    },
+    {
+      "id": "SCRL95",
+      "name": "Melf's Acid Arrow"
+    },
+    {
+      "id": "SCRL96",
+      "name": "Mirror Image"
+    },
+    {
+      "id": "SCRL97",
+      "name": "Stinking Cloud"
+    },
+    {
+      "id": "SCRL98",
+      "name": "Strength"
+    },
+    {
+      "id": "SCRL99",
+      "name": "Web"
+    }
+  ],
+  "Shields": [
+    {
+      "id": "SHLD01",
+      "name": "Small Shield"
+    },
+    {
+      "id": "SHLD02",
+      "name": "Small Shield +1"
+    },
+    {
+      "id": "SHLD03",
+      "name": "Medium Shield"
+    },
+    {
+      "id": "SHLD04",
+      "name": "Medium Shield +1"
+    },
+    {
+      "id": "SHLD05",
+      "name": "Large Shield"
+    },
+    {
+      "id": "SHLD06",
+      "name": "Large Shield +1"
+    },
+    {
+      "id": "SHLD07",
+      "name": "Large Shield +1, +4 vs Missiles"
+    },
+    {
+      "id": "SHLD08",
+      "name": "Buckler"
+    },
+    {
+      "id": "SHLD09",
+      "name": "Buckler"
+    },
+    {
+      "id": "SHLD10",
+      "name": "Buckler"
+    },
+    {
+      "id": "SHLD11",
+      "name": "Small Shield"
+    },
+    {
+      "id": "SHLD12",
+      "name": "Small Shield"
+    },
+    {
+      "id": "SHLD13",
+      "name": "Medium Shield"
+    },
+    {
+      "id": "SHLD14",
+      "name": "Medium Shield"
+    },
+    {
+      "id": "SHLD15",
+      "name": "Large Shield"
+    },
+    {
+      "id": "SHLD16",
+      "name": "Large Shield"
+    },
+    {
+      "id": "SHLD18",
+      "name": "Large Shield"
+    }
+  ],
+  "Slings": [
+    {
+      "id": "SLNG01",
+      "name": "Sling"
+    },
+    {
+      "id": "SLNG02",
+      "name": "Sling +1"
+    }
+  ],
+  "Spears": [
+    {
+      "id": "SPER01",
+      "name": "Spear"
+    },
+    {
+      "id": "SPER02",
+      "name": "Spear +1"
+    },
+    {
+      "id": "SPER03",
+      "name": "Spear +3, Backbiter"
+    },
+    {
+      "id": "SPER04",
+      "name": "Spear +3, Backbiter"
+    }
+  ],
+  "Staffs": [
+    {
+      "id": "STAF01",
+      "name": "Quarterstaff"
+    },
+    {
+      "id": "STAF02",
+      "name": "Quarterstaff +1"
+    },
+    {
+      "id": "STAF03",
+      "name": "Quarterstaff"
+    },
+    {
+      "id": "STAF04",
+      "name": "Quarterstaff"
+    },
+    {
+      "id": "STAF05",
+      "name": "Staff of Striking"
+    },
+    {
+      "id": "STAF06",
+      "name": "Staff-Mace"
+    },
+    {
+      "id": "STAF07",
+      "name": "Staff Spear +2"
+    },
+    {
+      "id": "STAF08",
+      "name": "Quarterstaff +3"
+    }
+  ],
+  "Swords 1H": [
+    {
+      "id": "SW1H01",
+      "name": "Bastard Sword"
+    },
+    {
+      "id": "SW1H02",
+      "name": "Bastard Sword +1"
+    },
+    {
+      "id": "SW1H03",
+      "name": "Bastard Sword +1, Shapeshifters"
+    },
+    {
+      "id": "SW1H04",
+      "name": "Long Sword"
+    },
+    {
+      "id": "SW1H05",
+      "name": "Long Sword +1"
+    },
+    {
+      "id": "SW1H06",
+      "name": "Long Sword +2"
+    },
+    {
+      "id": "SW1H07",
+      "name": "Short Sword"
+    },
+    {
+      "id": "SW1H08",
+      "name": "Short Sword +1"
+    },
+    {
+      "id": "SW1H09",
+      "name": "Short Sword +2"
+    },
+    {
+      "id": "SW1H10",
+      "name": "Short Sword of Backstabbing"
+    },
+    {
+      "id": "SW1H11",
+      "name": "Flaming Sword"
+    },
+    {
+      "id": "SW1H12",
+      "name": "Hull's Long Sword"
+    },
+    {
+      "id": "SW1H13",
+      "name": "Moonblade"
+    },
+    {
+      "id": "SW1H14",
+      "name": "Short Sword +1"
+    },
+    {
+      "id": "SW1H15",
+      "name": "Scimitar +3, Frostbrand"
+    },
+    {
+      "id": "SW1H16",
+      "name": "Scimitar, +5, Defender"
+    },
+    {
+      "id": "SW1H17",
+      "name": "Perdue's Short Sword"
+    },
+    {
+      "id": "SW1H18",
+      "name": "Sword of Balduran"
+    },
+    {
+      "id": "SW1H19",
+      "name": "The Vampire's Revenge"
+    },
+    {
+      "id": "SW1H20",
+      "name": "Scimitar"
+    },
+    {
+      "id": "SW1H21",
+      "name": "Short Sword"
+    },
+    {
+      "id": "SW1H22",
+      "name": "Scimitar +1"
+    },
+    {
+      "id": "SW1H23",
+      "name": "Scimitar +2"
+    },
+    {
+      "id": "SW1H24",
+      "name": "Long Sword +1, Flame Tongue"
+    }
+  ],
+  "Swords 2H": [
+    {
+      "id": "SW2H01",
+      "name": "Two Handed Sword"
+    },
+    {
+      "id": "SW2H02",
+      "name": "Two Handed Sword +1"
+    },
+    {
+      "id": "SW2H03",
+      "name": "Two Handed Sword, Berserking"
+    },
+    {
+      "id": "SW2H05",
+      "name": "Two"
+    },
+    {
+      "id": "SW2H06",
+      "name": "Spider's Bane"
+    },
+    {
+      "id": "SW2H07",
+      "name": "Two Handed Sword +3"
+    },
+    {
+      "id": "SW2H08",
+      "name": "Two Handed Sword +2"
+    }
+  ],
+  "Wands": [
+    {
+      "id": "WAND02",
+      "name": "Wand of Fear"
+    },
+    {
+      "id": "WAND03",
+      "name": "Wand of Magic Missiles"
+    },
+    {
+      "id": "WAND04",
+      "name": "Wand of Paralyzation"
+    },
+    {
+      "id": "WAND05",
+      "name": "Wand of Fire"
+    },
+    {
+      "id": "WAND06",
+      "name": "Wand of Frost"
+    },
+    {
+      "id": "WAND07",
+      "name": "Wand of Lightning"
+    },
+    {
+      "id": "WAND08",
+      "name": "Wand of Sleep"
+    },
+    {
+      "id": "WAND09",
+      "name": "Wand of Polymorphing"
+    },
+    {
+      "id": "WAND10",
+      "name": "Wand of Monster Summoning"
+    },
+    {
+      "id": "WAND11",
+      "name": "Wand of the Heavens"
+    }
+  ],
+  "Crossbows": [
+    {
+      "id": "XBOW01",
+      "name": "Heavy Crossbow"
+    },
+    {
+      "id": "XBOW02",
+      "name": "Heavy Crossbow +1"
+    },
+    {
+      "id": "XBOW03",
+      "name": "Heavy Crossbow of Accuracy"
+    },
+    {
+      "id": "XBOW04",
+      "name": "Light Crossbow"
+    },
+    {
+      "id": "XBOW05",
+      "name": "Light Crossbow +1"
+    },
+    {
+      "id": "XBOW06",
+      "name": "Light Crossbow of Speed"
+    }
+  ]
+}

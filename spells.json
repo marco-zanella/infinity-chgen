@@ -1,0 +1,717 @@
+{
+  "wizard": [
+    {
+      "id": "SPWI101",
+      "name": "Grease",
+      "level": 1
+    },
+    {
+      "id": "SPWI102",
+      "name": "Armor",
+      "level": 1
+    },
+    {
+      "id": "SPWI103",
+      "name": "Burning Hands",
+      "level": 1
+    },
+    {
+      "id": "SPWI104",
+      "name": "Charm Person",
+      "level": 1
+    },
+    {
+      "id": "SPWI105",
+      "name": "Color Spray",
+      "level": 1
+    },
+    {
+      "id": "SPWI106",
+      "name": "Blindness",
+      "level": 1
+    },
+    {
+      "id": "SPWI107",
+      "name": "Friends",
+      "level": 1
+    },
+    {
+      "id": "SPWI110",
+      "name": "Identify",
+      "level": 1
+    },
+    {
+      "id": "SPWI111",
+      "name": "Infravision",
+      "level": 1
+    },
+    {
+      "id": "SPWI112",
+      "name": "Magic Missile",
+      "level": 1
+    },
+    {
+      "id": "SPWI113",
+      "name": "Protection from Evil",
+      "level": 1
+    },
+    {
+      "id": "SPWI114",
+      "name": "Shield",
+      "level": 1
+    },
+    {
+      "id": "SPWI115",
+      "name": "Shocking Grasp",
+      "level": 1
+    },
+    {
+      "id": "SPWI116",
+      "name": "Sleep",
+      "level": 1
+    },
+    {
+      "id": "SPWI117",
+      "name": "Chill Touch",
+      "level": 1
+    },
+    {
+      "id": "SPWI118",
+      "name": "Chromatic Orb",
+      "level": 1
+    },
+    {
+      "id": "SPWI119",
+      "name": "Larloch's Minor Drain",
+      "level": 1
+    },
+
+    {
+      "id": "SPWI108",
+      "name": "Protection from Petrification",
+      "level": 2
+    },
+    {
+      "id": "SPWI201",
+      "name": "Blur",
+      "level": 2
+    },
+    {
+      "id": "SPWI202",
+      "name": "Detect Evil",
+      "level": 2
+    },
+    {
+      "id": "SPWI203",
+      "name": "Detect Invisibility",
+      "level": 2
+    },
+    {
+      "id": "SPWI205",
+      "name": "Horror",
+      "level": 2
+    },
+    {
+      "id": "SPWI206",
+      "name": "Invisibility",
+      "level": 2
+    },
+    {
+      "id": "SPWI207",
+      "name": "Knock",
+      "level": 2
+    },
+    {
+      "id": "SPWI208",
+      "name": "Know Alignment",
+      "level": 2
+    },
+    {
+      "id": "SPWI209",
+      "name": "Luck",
+      "level": 2
+    },
+    {
+      "id": "SPWI210",
+      "name": "Resist Fear",
+      "level": 2
+    },
+    {
+      "id": "SPWI211",
+      "name": "Melf's Acid Arrow",
+      "level": 2
+    },
+    {
+      "id": "SPWI212",
+      "name": "Mirror Image",
+      "level": 2
+    },
+    {
+      "id": "SPWI213",
+      "name": "Stinking Cloud",
+      "level": 2
+    },
+    {
+      "id": "SPWI214",
+      "name": "Strength",
+      "level": 2
+    },
+    {
+      "id": "SPWI215",
+      "name": "Web",
+      "level": 2
+    },
+    {
+      "id": "SPWI217",
+      "name": "Agannazar's Scorcher",
+      "level": 2
+    },
+    {
+      "id": "SPWI218",
+      "name": "Ghoul Touch",
+      "level": 2
+    },
+    {
+      "id": "SPWI219",
+      "name": "Vocalize",
+      "level": 2
+    },
+
+    {
+      "id": "SPWI301",
+      "name": "Claircoyance",
+      "level": 3
+    },
+    {
+      "id": "SPWI302",
+      "name": "Dispel Magic",
+      "level": 3
+    },
+    {
+      "id": "SPWI303",
+      "name": "Flame Arrow",
+      "level": 3
+    },
+    {
+      "id": "SPWI304",
+      "name": "Fireball",
+      "level": 3
+    },
+    {
+      "id": "SPWI305",
+      "name": "Haste",
+      "level": 3
+    },
+    {
+      "id": "SPWI306",
+      "name": "Hold Person",
+      "level": 3
+    },
+    {
+      "id": "SPWI308",
+      "name": "Lighting Bolt",
+      "level": 3
+    },
+    {
+      "id": "SPWI309",
+      "name": "Monster Summoning I",
+      "level": 3
+    },
+    {
+      "id": "SPWI310",
+      "name": "Non-Detection",
+      "level": 3
+    },
+    {
+      "id": "SPWI311",
+      "name": "Protection from Normal Missiles",
+      "level": 3
+    },
+    {
+      "id": "SPWI312",
+      "name": "Slow",
+      "level": 3
+    },
+    {
+      "id": "SPWI313",
+      "name": "Skull Trap",
+      "level": 3
+    },
+    {
+      "id": "SPWI314",
+      "name": "Vampiric Touch",
+      "level": 3
+    },
+    {
+      "id": "SPWI315",
+      "name": "Wraith Form",
+      "level": 3
+    },
+    {
+      "id": "SPWI316",
+      "name": "Dire Charm",
+      "level": 3
+    },
+    {
+      "id": "SPWI317",
+      "name": "Ghost Armor",
+      "level": 3
+    },
+
+    {
+      "id": "SPWI401",
+      "name": "Confusion",
+      "level": 4
+    },
+    {
+      "id": "SPWI402",
+      "name": "Dimension Door",
+      "level": 4
+    },
+    {
+      "id": "SPWI405",
+      "name": "Improved Invisibility",
+      "level": 4
+    },
+    {
+      "id": "SPWI406",
+      "name": "Minor Globe of Invulnerability",
+      "level": 4
+    },
+    {
+      "id": "SPWI407",
+      "name": "Monster Summoning II",
+      "level": 4
+    },
+    {
+      "id": "SPWI409",
+      "name": "Wall of Fire",
+      "level": 4
+    },
+    {
+      "id": "SPWI410",
+      "name": "Remove Curse",
+      "level": 4
+    },
+    {
+      "id": "SPWI411",
+      "name": "Emotion",
+      "level": 4
+    },
+    {
+      "id": "SPWI412",
+      "name": "Greater Malison",
+      "level": 4
+    },
+    {
+      "id": "SPWI413",
+      "name": "Otiluke's Resilient Sphere",
+      "level": 4
+    },
+    {
+      "id": "SPWI414",
+      "name": "Spirit Armor",
+      "level": 4
+    },
+    {
+      "id": "SPWI415",
+      "name": "Polymorph Other",
+      "level": 4
+    },
+    {
+      "id": "SPWI416",
+      "name": "Polymorph Self",
+      "level": 4
+    },
+
+    {
+      "id": "SPWI501",
+      "name": "Animate Dead",
+      "level": 5
+    },
+    {
+      "id": "SPWI502",
+      "name": "Cloudkill",
+      "level": 5
+    },
+    {
+      "id": "SPWI503",
+      "name": "Cone of Cold",
+      "level": 5
+    },
+    {
+      "id": "SPWI504",
+      "name": "Monster Summoning III",
+      "level": 5
+    },
+    {
+      "id": "SPWI505",
+      "name": "Shadow Door",
+      "level": 5
+    },
+    {
+      "id": "SPWI506",
+      "name": "Domination",
+      "level": 5
+    },
+    {
+      "id": "SPWI507",
+      "name": "Hold Monster",
+      "level": 5
+    },
+    {
+      "id": "SPWI508",
+      "name": "Chaos",
+      "level": 5
+    },
+    {
+      "id": "SPWI509",
+      "name": "Feeblemind",
+      "level": 5
+    }
+  ],
+
+
+  "priest": [
+    {
+      "id": "SPPR101",
+      "name": "Bless",
+      "level": 1
+    },
+    {
+      "id": "SPPR102",
+      "name": "Command",
+      "level": 1
+    },
+    {
+      "id": "SPPR103",
+      "name": "Cure Light Wounds",
+      "level": 1
+    },
+    {
+      "id": "SPPR104",
+      "name": "Detect Evil",
+      "level": 1
+    },
+    {
+      "id": "SPPR105",
+      "name": "Entangle",
+      "level": 1
+    },
+    {
+      "id": "SPPR106",
+      "name": "Magical Stone",
+      "level": 1
+    },
+    {
+      "id": "SPPR107",
+      "name": "Protection from Evil",
+      "level": 1
+    },
+    {
+      "id": "SPPR108",
+      "name": "Remove Fear",
+      "level": 1
+    },
+    {
+      "id": "SPPR109",
+      "name": "Sanctuary",
+      "level": 1
+    },
+    {
+      "id": "SPPR110",
+      "name": "Shillelagh",
+      "level": 1
+    },
+
+    {
+      "id": "SPPR201",
+      "name": "Aid",
+      "level": 2
+    },
+    {
+      "id": "SPPR202",
+      "name": "Barkskin",
+      "level": 2
+    },
+    {
+      "id": "SPPR203",
+      "name": "Chant",
+      "level": 2
+    },
+    {
+      "id": "SPPR204",
+      "name": "Charm Person or Mammal",
+      "level": 2
+    },
+    {
+      "id": "SPPR205",
+      "name": "Find Traps",
+      "level": 2
+    },
+    {
+      "id": "SPPR206",
+      "name": "Flame Blade",
+      "level": 2
+    },
+    {
+      "id": "SPPR207",
+      "name": "Goodberry",
+      "level": 2
+    },
+    {
+      "id": "SPPR208",
+      "name": "Hold Person",
+      "level": 2
+    },
+    {
+      "id": "SPPR209",
+      "name": "Know Alignment",
+      "level": 2
+    },
+    {
+      "id": "SPPR210",
+      "name": "Resist Fire and Cold",
+      "level": 2
+    },
+    {
+      "id": "SPPR211",
+      "name": "Silence, 15' Radius",
+      "level": 2
+    },
+    {
+      "id": "SPPR212",
+      "name": "Slow Poison",
+      "level": 2
+    },
+    {
+      "id": "SPPR213",
+      "name": "Spiritual Hammer",
+      "level": 2
+    },
+    {
+      "id": "SPPR214",
+      "name": "Draw Upon Holy Might",
+      "level": 2
+    },
+
+    {
+      "id": "SPPR301",
+      "name": "Animate Dead",
+      "level": 3
+    },
+    {
+      "id": "SPPR302",
+      "name": "Call Lighting",
+      "level": 3
+    },
+    {
+      "id": "SPPR303",
+      "name": "Dispel Magic",
+      "level": 3
+    },
+    {
+      "id": "SPPR304",
+      "name": "Glyph of Warding",
+      "level": 3
+    },
+    {
+      "id": "SPPR305",
+      "name": "Hold Animal",
+      "level": 3
+    },
+    {
+      "id": "SPPR306",
+      "name": "Protection from Fire",
+      "level": 3
+    },
+    {
+      "id": "SPPR307",
+      "name": "Remove Curse",
+      "level": 3
+    },
+    {
+      "id": "SPPR308",
+      "name": "Remove Paralysis",
+      "level": 3
+    },
+    {
+      "id": "SPPR309",
+      "name": "Invisibility Purge",
+      "level": 3
+    },
+    {
+      "id": "SPPR310",
+      "name": "Miscast Magic",
+      "level": 3
+    },
+    {
+      "id": "SPPR311",
+      "name": "Rigid Thinking",
+      "level": 3
+    },
+    {
+      "id": "SPPR312",
+      "name": "Strength of One",
+      "level": 3
+    },
+
+    {
+      "id": "SPPR401",
+      "name": "Cure Serious Wounds",
+      "level": 4
+    },
+    {
+      "id": "SPPR402",
+      "name": "Animal Summoning I",
+      "level": 4
+    },
+    {
+      "id": "SPPR403",
+      "name": "Free Action",
+      "level": 4
+    },
+    {
+      "id": "SPPR404",
+      "name": "Neutralize Poison",
+      "level": 4
+    },
+    {
+      "id": "SPPR405",
+      "name": "Mental Domination",
+      "level": 4
+    },
+    {
+      "id": "SPPR406",
+      "name": "Defensive Harmony",
+      "level": 4
+    },
+    {
+      "id": "SPPR407",
+      "name": "Protection from Lighting",
+      "level": 4
+    },
+    {
+      "id": "SPPR408",
+      "name": "Protection from Evil, 10' Radius",
+      "level": 4
+    },
+
+    {
+      "id": "SPPR501",
+      "name": "Animal Summoning II",
+      "level": 5
+    },
+    {
+      "id": "SPPR502",
+      "name": "Cure Critial Wounds",
+      "level": 5
+    },
+    {
+      "id": "SPPR503",
+      "name": "Flame Strike",
+      "level": 5
+    },
+    {
+      "id": "SPPR504",
+      "name": "Raise Dead",
+      "level": 5
+    }
+  ],
+
+  "innate": [
+    {
+      "id": "SPIN101",
+      "name": "Cure Minor Wounds"
+    },
+    {
+      "id": "SPIN102",
+      "name": "Slow Poison"
+    },
+    {
+      "id": "SPIN103",
+      "name": "Draw Upon Holy Might"
+    },
+    {
+      "id": "SPIN104",
+      "name": "Larloch's Minor Drain"
+    },
+    {
+      "id": "SPIN105",
+      "name": "Ghoul Touch"
+    },
+    {
+      "id": "SPIN106",
+      "name": "Vampiric Touch"
+    },
+
+    {
+      "id": "SPIN107",
+      "name": "Shapeshifts Brown Bear"
+    },
+    {
+      "id": "SPIN108",
+      "name": "Charm Animal"
+    },
+    {
+      "id": "SPIN109",
+      "name": "Lay On Hands"
+    },
+    {
+      "id": "SPIN110",
+      "name": "Shapeshifts Wolf"
+    },
+    {
+      "id": "SPIN111",
+      "name": "Shapeshifts Black Bear"
+    },
+    {
+      "id": "SPIN112",
+      "name": "Dispel Magic"
+    },
+    {
+      "id": "SPIN113",
+      "name": "Spiritual Hammer"
+    },
+    {
+      "id": "SPIN114",
+      "name": "Summon Dread Wolf"
+    },
+    {
+      "id": "SPIN115",
+      "name": "Summon Ghast"
+    },
+    {
+      "id": "SPIN116",
+      "name": "Create Poisoned Arrows"
+    },
+    {
+      "id": "SPIN117",
+      "name": "Berserk"
+    },
+    {
+      "id": "SPIN118",
+      "name": "Invisibility"
+    },
+    {
+      "id": "SPIN120",
+      "name": "Detect Evil"
+    },
+    {
+      "id": "SPIN121",
+      "name": "Protection from Evil"
+    },
+    {
+      "id": "SPIN122",
+      "name": "Shapeshifts Natural Form"
+    },
+    {
+      "id": "SPIN123",
+      "name": "Shapeshifts Natural Form"
+    },
+    {
+      "id": "SPIN124",
+      "name": "Shapeshifts Natural Form"
+    }
+  ]
+}

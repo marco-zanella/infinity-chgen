@@ -1,0 +1,578 @@
+{
+  "General": [
+    {
+      "id": "name",
+      "type": "text",
+      "attributes": { "maxlength": 32 }
+    },
+    {
+      "id": "sex",
+      "type": "select",
+      "options": { "male": 1, "female": 2 }
+    },
+    {
+      "id": "race",
+      "type": "select",
+      "options": { "human": 1, "elf": 2, "half-elf": 3, "gnome": 6, "halfling": 5, "dwarf": 4 }
+    },
+    {
+      "id": "class",
+      "type": "select",
+      "options": {
+        "fighter": 2,
+        "ranger": 12,
+        "paladin": 6,
+        "cleric": 3,
+        "dtrid": 11,
+        "wizard": 1,
+        "thief": 4,
+        "bard": 5,
+        "fighter/thief": 9,
+        "fighter/cleric": 8,
+        "fighter/mage": 7,
+        "mage/thief": 13,
+        "cleric/wizard": 14,
+        "cleric/thief": 15,
+        "fighter/druid": 16,
+        "cleric/ranger": 18,
+        "fighter/mage/thief": 10,
+        "fighter/mage/cleric": 17
+      }
+    },
+    {
+      "id": "creature_flags",
+      "name": "Multi/Dual Classes",
+      "type": "select",
+      "options": {
+        "singleclass/multiclass": 2048,
+        "dual class: figher": 2056,
+        "dual class: mage": 2064,
+        "dual class: cleric": 2080,
+        "dual class: thief": 2112,
+        "dual class: druid": 2176,
+        "dual class: ranger": 2304
+      }
+    },
+    {
+      "id": "kit",
+      "type": "select",
+      "options": {
+        "none": 0,
+        "true class": 1073741824,
+        "abjurer": 4194304,
+        "conjurer": 8388608,
+        "diviner": 16777216,
+        "enchanter": 33554432,
+        "illusionist": 67108864,
+        "invoker": 134217728,
+        "necromancer": 268435456,
+        "transmuter": 536870912,
+        "barbarian": 16384,
+        "berserker": 1073807360,
+        "wizardslayer": 1073872896,
+        "kensai": 1073938432,
+        "cavalier": 1074003968,
+        "inquisitor": 1074069504,
+        "undeadhunter": 1074135040,
+        "archer": 1074200576,
+        "stalker": 1074266112,
+        "beastmaster": 1074331648,
+        "assassin": 1074397184,
+        "bountyhunter": 1074462720,
+        "swashbuckler": 1074528256,
+        "blade": 1074593792,
+        "jester": 1074659328,
+        "skald": 1074724864,
+        "totemic": 1074790400,
+        "shapeshifter": 1074855936,
+        "avenger": 1074921472,
+        "godtalos": 1074987008,
+        "godhelm": 1075052544,
+        "godlathander": 1075118080
+      }
+    },
+    {
+      "id": "alignment",
+      "type": "select",
+      "options": {
+        "lawful good": 17,
+        "lawful neutra": 18,
+        "lawful evil": 19,
+        "neutral good": 33,
+        "true neutral": 34,
+        "neutral evil": 35,
+        "chaotic good": 49,
+        "chaotic neutral": 50,
+        "chaotic evil": 51
+      }
+    }
+  ],
+  
+  
+  
+  "Abilities": [
+    {
+      "id": "strength",
+      "type": "number",
+      "attributes": { "min": 0, "max": 25 }
+    },
+    {
+      "id": "dexterity",
+      "type": "number",
+      "attributes": { "min": 0, "max": 25 }
+    },
+    {
+      "id": "constitution",
+      "type": "number",
+      "attributes": { "min": 0, "max": 25 }
+    },
+    {
+      "id": "intelligence",
+      "type": "number",
+      "attributes": { "min": 0, "max": 25 }
+    },
+    {
+      "id": "wisdom",
+      "type": "number",
+      "attributes": { "min": 0, "max": 25 }
+    },
+    {
+      "id": "charisma",
+      "type": "number",
+      "attributes": { "min": 0, "max": 25 }
+    }
+  ],
+  
+  
+  
+  "Skills": [
+    {
+      "id": "lockpicking",
+      "type": "number",
+      "attributes": { "min": 0 }
+    },
+    {
+      "id": "stealth",
+      "type": "number",
+      "attributes": { "min": 0 }
+    },
+    {
+      "id": "find_traps",
+      "type": "number",
+      "attributes": { "min": 0 }
+    },
+    {
+      "id": "pick_pockets",
+      "type": "number",
+      "attributes": { "min": 0 }
+    },
+    {
+      "id": "set_traps",
+      "type": "number",
+      "attributes": { "min": 0 }
+    },
+    {
+      "id": "hide_in_shadows",
+      "type": "number",
+      "attributes": { "min": 0 }
+    }
+  ],
+  
+  
+  
+  "Armor Class": [
+    {
+      "id": "armor_class_natural",
+      "label": "Armor Class",
+      "type": "number",
+      "attributes": {}
+    },
+    {
+      "id": "armor_class_crushing",
+      "label": "Crushing",
+      "type": "number",
+      "attributes": {}
+    },
+    {
+      "id": "armor_class_missile",
+      "label": "Missile",
+      "type": "number",
+      "attributes": {}
+    },
+    {
+      "id": "armor_class_piercing",
+      "label": "Piercing",
+      "type": "number",
+      "attributes": {}
+    },
+    {
+      "id": "armor_class_slashing",
+      "label": "Slashing",
+      "type": "number",
+      "attributes": {}
+    }
+  ],
+  
+  
+  
+  "Save Throws": [
+    {
+      "id": "save_throw_death",
+      "label": "Death",
+      "type": "number",
+      "attributes": { "min": 0 , "max": 20}
+    },
+    {
+      "id": "save_throw_wands",
+      "label": "Wands",
+      "type": "number",
+      "attributes": { "min": 0 , "max": 20}
+    },
+    {
+      "id": "save_throw_polymorph",
+      "label": "Polymorph",
+      "type": "number",
+      "attributes": { "min": 0 , "max": 20}
+    },
+    {
+      "id": "save_throw_breath",
+      "label": "Breath",
+      "type": "number",
+      "attributes": { "min": 0 , "max": 20}
+    },
+    {
+      "id": "save_throw_spell",
+      "label": "Spell",
+      "type": "number",
+      "attributes": { "min": 0 , "max": 20}
+    }
+  ],
+  
+  
+  
+  "Proficiency": [
+    {
+      "id": "large_sword_proficiency",
+      "label": "Large Swords",
+      "type": "number",
+      "attributes": { "min": 0, "max": 5 }
+    },
+    {
+      "id": "small_sword_proficiency",
+      "label": "Small Swords",
+      "type": "number",
+      "attributes": { "min": 0, "max": 5 }
+    },
+    {
+      "id": "blunt_proficiency",
+      "label": "Blunt Weapons",
+      "type": "number",
+      "attributes": { "min": 0, "max": 5 }
+    },
+    {
+      "id": "spiked_proficiency",
+      "label": "Spiked Weapons",
+      "type": "number",
+      "attributes": { "min": 0, "max": 5 }
+    },
+    {
+      "id": "bows_proficiency",
+      "label": "Bows",
+      "type": "number",
+      "attributes": { "min": 0, "max": 5 }
+    },
+    {
+      "id": "axe_proficiency",
+      "label": "Axes",
+      "type": "number",
+      "attributes": { "min": 0, "max": 5 }
+    },
+    {
+      "id": "missile_proficiency",
+      "label": "Missiles",
+      "type": "number",
+      "attributes": { "min": 0, "max": 5 }
+    },
+    {
+      "id": "spears_proficiency",
+      "label": "Spears Weapons",
+      "type": "number",
+      "attributes": { "min": 0, "max": 5 }
+    }
+  ],
+
+
+
+  "Combact": [
+    {
+      "id": "xp",
+      "label": "Experience",
+      "type": "number",
+      "attributes": { "min": 0, "max": 4294967295 }
+    },
+    {
+      "id": "current_hp",
+      "type": "number",
+      "attributes": { "min": 0, "max": 65535 }
+    },
+    {
+      "id": "max_hp",
+      "type": "number",
+      "attributes": { "min": 0, "max": 65535 }
+    },
+    {
+      "id": "thac0",
+      "label": "THAC0",
+      "type": "number",
+      "attributes": {}
+    },
+    {
+      "id": "number_of_attacks",
+      "type": "number",
+      "attributes": { "min": 1, "max": 10 }
+    },
+    {
+      "id": "turn_undead",
+      "type": "number",
+      "attributes": { "min": 0 }
+    },
+    {
+      "id": "first_class_level",
+      "type": "number",
+      "attributes": { "min": 0, "max": 50 }
+    },
+    {
+      "id": "second_class_level",
+      "type": "number",
+      "attributes": { "min": 0, "max": 50 }
+    },
+    {
+      "id": "third_class_level",
+      "type": "number",
+      "attributes": { "min": 0, "max": 50 }
+    },
+    {
+      "id": "racial_enemy",
+      "type": "select",
+      "options": {
+        "none": 255,
+        "carrioncrawler": 104,
+        "ettercap": 107,
+        "ghoul": 108,
+        "gibberling": 109,
+        "gnoll": 110,
+        "hobgoblin": 111,
+        "kobold": 112,
+        "ogre": 113,
+        "skeleton": 115,
+        "spider": 116
+      }
+    }
+  ],
+
+
+
+  "Miscellaneous": [
+    {
+      "id": "gold",
+      "type": "number",
+      "attributes": { "min": 0, "max": 4294967295 }
+    },
+    {
+      "id": "reputation",
+      "type": "number",
+      "attributes": { "min": 0, "max": 127 }
+    },
+    {
+      "id": "detect_illusion",
+      "type": "number",
+      "attributes": { "min": 0 }
+    },
+    {
+      "id": "lore",
+      "type": "number",
+      "attributes": { "min": 0, "max": 100 }
+    },
+    {
+      "id": "fatigue",
+      "type": "number",
+      "attributes": { "min": 0, "max": 100 }
+    },
+    {
+      "id": "intoxication",
+      "type": "number",
+      "attributes": { "min": 0, "max": 100 }
+    },
+    {
+      "id": "luck",
+      "type": "number",
+      "attributes": { "min": 0 }
+    },
+    {
+      "id": "morale",
+      "type": "number",
+      "attributes": { "min": 0 }
+    },
+    {
+      "id": "morale_break",
+      "type": "number",
+      "attributes": { "min": 0 }
+    },
+    {
+      "id": "morale_recovery",
+      "type": "number",
+      "attributes": { "min": 0 }
+    }
+  ],
+
+
+
+
+  
+
+
+  "Appearance": [
+    {
+      "id": "animation",
+      "label": "Sprite",
+      "type": "select",
+      "options": {
+        "fighter, male, human": 24832,
+        "fighter, male, elf": 24833,
+        "fighter, male, dwarf": 24834,
+        "fighter, male, halfling": 24835,
+
+        "cleric, male, human": 24576,
+        "cleric, male, elf": 24577,
+        "cleric, male, dwarf": 24578,
+        "cleric, male, halfling": 24579,
+
+        "thief, male, human": 25344,
+        "thief, male, elf": 25345,
+        "thief, male, dwarf": 25346,
+        "thief, male, halfling": 25347,
+
+        "mage, male, human": 25088,
+        "mage, male, elf": 25089,
+        "mage, male, dwarf": 25090,
+
+        "fighter, female, human": 24848,
+        "fighter, female, elf": 24849,
+        "fighter, female, dwarf": 24850,
+        "fighter, female, halfling": 24851,
+
+        "cleric, female, human": 24592,
+        "cleric, female, elf": 24593,
+        "cleric, female, dwarf": 24594,
+        "cleric, female, halfling": 24595,
+
+        "thief, female, human": 25360,
+        "thief, female, elf": 25361,
+        "thief, female, dwarf": 25362,
+        "thief, female, halfling": 25363,
+
+        "mage, female, human": 25104,
+        "mage, female, elf": 25105,
+        "mage, female, dwarf": 25106
+      }
+    },
+    {
+      "id": "small_portrait",
+      "type": "text",
+      "attributes": { "maxlength": 8}
+    },
+    {
+      "id": "large_portrait",
+      "type": "text",
+      "attributes": { "maxlength": 8}
+    },
+    {
+      "id": "color_metal",
+      "type": "color"
+    },
+    {
+      "id": "color_minor",
+      "type": "color"
+    },
+    {
+      "id": "color_major",
+      "type": "color"
+    },
+    {
+      "id": "color_skin",
+      "type": "color"
+    },
+    {
+      "id": "color_leather",
+      "type": "color"
+    },
+    {
+      "id": "color_armor",
+      "type": "color"
+    },
+    {
+      "id": "color_hair",
+      "type": "color"
+    }
+  ],
+  
+  
+  
+  "Resistance": [
+    {
+      "id": "resist_fire",
+      "type": "number",
+      "attributes": { "min": 0, "max": 100 }
+    },
+    {
+      "id": "resist_cold",
+      "type": "number",
+      "attributes": { "min": 0, "max": 100 }
+    },
+    {
+      "id": "resist_electricity",
+      "type": "number",
+      "attributes": { "min": 0, "max": 100 }
+    },
+    {
+      "id": "resist_acid",
+      "type": "number",
+      "attributes": { "min": 0, "max": 100 }
+    },
+    {
+      "id": "resist_magic",
+      "type": "number",
+      "attributes": { "min": 0, "max": 100 }
+    },
+    {
+      "id": "resist_magic_fire",
+      "type": "number",
+      "attributes": { "min": 0, "max": 100 }
+    },
+    {
+      "id": "resist_magic_cold",
+      "type": "number",
+      "attributes": { "min": 0, "max": 100 }
+    },
+    {
+      "id": "resist_slashing",
+      "type": "number",
+      "attributes": { "min": 0, "max": 100 }
+    },
+    {
+      "id": "resist_crushing",
+      "type": "number",
+      "attributes": { "min": 0, "max": 100 }
+    },
+    {
+      "id": "resist_piercing",
+      "type": "number",
+      "attributes": { "min": 0, "max": 100 }
+    },
+    {
+      "id": "resist_missile",
+      "type": "number",
+      "attributes": { "min": 0, "max": 100 }
+    }
+  ]
+}
